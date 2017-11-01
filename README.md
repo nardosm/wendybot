@@ -13,4 +13,4 @@ This Component Service implementation is based on Express.js. It includes the fo
 
 1. Run npm install on your module.
 1. Run node index.js to start the server.
-1. In the Bot Builder, create a new bot by importing the `examples/say_hello.json` file. Be sure to configure the custom component service connection parameters. The username/Password is MyTestUser/MyTestPassword.
+1. In the Bot Builder, create a new bot by importing the `examples/say_hello.json` file. Be sure to configure the custom component service connection parameters. 
